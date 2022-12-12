@@ -1,6 +1,6 @@
-# wthrapp
+# Flutter Weather Apps
 
-A new Flutter project.
+ini kali pertama saya ngoding dengan flutter, memang masih banyak yang belum saya pahami, akan tetapi saya yakin saya fast learning dan saya akan menyelesaikan apps ini semaksimal mungkin. bissmillah belajar flutter.
 
 ## Getting Started
 
